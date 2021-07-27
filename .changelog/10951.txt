@@ -1,0 +1,3 @@
+```release-note:bug
+consul/connect: Fixed bug where Nomad would emit noisy log messages for connect native tasks
+```
